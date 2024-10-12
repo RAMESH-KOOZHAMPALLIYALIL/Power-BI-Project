@@ -10,7 +10,6 @@ The report includes:
 - Sales by Country (Map Chart)
 - grow sales , sales and frofit for card chart etc
 
-- 
 Setup Instructions
 1. **Import Data**: Load the provided datasets into Power BI.
 2. **Create Relationships**: Establish relationships between tables if necessary.
